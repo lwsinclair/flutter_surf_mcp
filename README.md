@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/erickjtorres-flutter-surf-mcp-badge.png)](https://mseep.ai/app/erickjtorres-flutter-surf-mcp)
+
 # Flutter Surf MCP
 
 Flutter Surf MCP is a MCP server that allows interactions with Flutter applications through client LLMs. It provides tools to inspect, control, and automate Flutter applications programmatically.
